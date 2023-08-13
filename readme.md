@@ -1,9 +1,10 @@
-// Inside ESP32 firmware names as per written :-
+## Standard ESP32 file names as per written :-
 
 1. boot.py
 2. f1.py
 3. f2.py
 4. settings.py
+
 
 ## Micropython Firmware installion steps -
 
