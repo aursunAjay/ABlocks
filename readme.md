@@ -19,4 +19,3 @@ Example:-
 C:\Users\AJASONI\Desktop\esptool>esptool --port COM7 --baud 115200 write_flash --flash_size=detect 0 file.bin
 
 6. Now device is ready !
-7. 
