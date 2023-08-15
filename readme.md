@@ -2,7 +2,7 @@
 
 1. boot.py
 2. f1.py
-3. f2.py
+3. main.py
 4. settings.py
 
 
